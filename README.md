@@ -14,11 +14,12 @@ Pair plots to visualize the relationship between all features
 Heatmap to visualize the correlation between features
 Libraries:
 
-Seaborn
-Matplotlib
-Pandas
-NumPy
+Seaborn,
+Matplotlib,
+Pandas,
+NumPy,
+
 Data:
 
-IRIS dataset
+IRIS dataset,
 IRIS png(IMAGE)
